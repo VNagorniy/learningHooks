@@ -1,0 +1,23 @@
+[33mcommit 1943b1ba9d1e5ffef0c6428f6938fccc0efe0846[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Doom <vnagorniyrnd@gmail.com>
+Date:   Wed Feb 2 19:53:14 2022 +0300
+
+    знакомство с useMemo
+
+[33mcommit b14014e93fc8c57bff49dec4735dded3710500ad[m
+Author: Doom <vnagorniyrnd@gmail.com>
+Date:   Wed Feb 2 15:40:22 2022 +0300
+
+    знакомство с useCallback
+
+[33mcommit b469a541f19da0cde9238f3f5ab6363e3ce75a36[m
+Author: Doom <vnagorniyrnd@gmail.com>
+Date:   Wed Jan 26 21:10:08 2022 +0300
+
+    useEffect
+
+[33mcommit a51821567737bbc27258f0e5f02683ebce7730e3[m
+Author: Doom <vnagorniyrnd@gmail.com>
+Date:   Wed Jan 26 18:28:35 2022 +0300
+
+    useState
